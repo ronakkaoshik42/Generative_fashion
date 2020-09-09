@@ -6,7 +6,10 @@ Deep learning-based innovations, particularly GANs, have recently shown great su
 
 The images can be accessed at the google drive [link](https://drive.google.com/file/d/1hOsuMZFiMZGlP4oYnLj1MOYview06zf9/view?usp=sharing).
 It contains a total of 12306 images scraped using selenium from various commercial websites such as Amazon and Myntra. 
-First Header | Second Header
+The image distribution can be understood from the following table.
+
+Men | Women
+Category | Count | Category | Count
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
