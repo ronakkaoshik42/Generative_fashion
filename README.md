@@ -13,8 +13,8 @@ Category (Men) | Count | Category (Women) | Count
 ------------ | ------------- | ------------ | -------------
 Sherwani | 404 | Kurta-Kurtis | 826
 Kurta | 1766 | Sarees | 860
-Formal | 870 Lehenga | 936
-Casual Shirts | 868 Dress | 896
-T-Shirts | 902 Shirt | 621
-Ethnic Mix | 1649 Ethnic Mix | 1706
-Total | 6459 Total | 5845
+Formal | 870 | Lehenga | 936
+Casual Shirts | 868 | Dress | 896
+T-Shirts | 902 | Shirt | 621
+Ethnic Mix | 1649 | Ethnic Mix | 1706
+Total | 6459 | Total | 5845
