@@ -8,8 +8,13 @@ The images can be accessed at the google drive [link](https://drive.google.com/f
 It contains a total of 12306 images scraped using selenium from various commercial websites such as Amazon and Myntra. 
 The image distribution can be understood from the following table.
 
-Men | Women
-Category | Count | Category | Count
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+
+Category (Men) | Count | Category (Women) | Count
+------------ | ------------- | ------------ | -------------
+Sherwani | 404 | Kurta-Kurtis | 826
+Kurta | 1766 | Sarees | 860
+Formal | 870 Lehenga | 936
+Casual Shirts | 868 Dress | 896
+T-Shirts | 902 Shirt | 621
+Ethnic Mix | 1649 Ethnic Mix | 1706
+Total | 6459 Total | 5845
