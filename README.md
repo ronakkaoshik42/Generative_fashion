@@ -5,7 +5,7 @@ Deep learning-based innovations, particularly GANs, have recently shown great su
 ## Dataset
 
 The images can be accessed at the google drive [link](https://drive.google.com/file/d/1hOsuMZFiMZGlP4oYnLj1MOYview06zf9/view?usp=sharing).
-It contains a total of 12306 images scraped using selenium from various commercial websites such as Amazon and Myntra. 
+It contains a total of 12306 images scraped using selenium from various commercial websites such as Flipkart, Amazon and Myntra. 
 The image distribution can be understood from the following table.
 
 Category (Men) | Count | Category (Women) | Count
@@ -22,4 +22,4 @@ The textual description of each of the images can be found in the images.csv fil
 
 ## Scraping
 
-A selenium based script was used to scroll through multiple e-commerce websites and capture the images as well as the textual description. The file 'scrape.py' was used for the same.
+A selenium based script was used to scroll through multiple e-commerce websites and capture the images as well as the textual description. The file 'scrape.py' was used for the same. A sample script used for scraping flipkart has been provided. Similar scripts have been used on Amazon and Myntra.
